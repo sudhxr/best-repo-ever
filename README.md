@@ -9,4 +9,4 @@ Now that you’ve checked out to the new branch, well make some changes and see 
 
 Changes made to branch1 to showcase confict
 
-New line for branch conflict 1
+Trying to create another conflict with B2
