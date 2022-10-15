@@ -7,4 +7,4 @@ Now that you’ve checked out to the new branch, well make some changes and see 
 2. Add some content using your favorite text editor.
 3. When you’re finished, save your changes.
 
-Adding changes to branch2 to demonstrate a conflict
+Changes made to branch1 to showcase confict
